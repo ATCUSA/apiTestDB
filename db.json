@@ -10,13 +10,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "users": [
-    {
-      "id": 11,
-      "name": "Builder Bob",
-      "username": "Bob",
-      "email": "bbobe@builder.biz"
-    }
-  ]
+  }
 }
